@@ -7,5 +7,5 @@ public class Friend {
     private String school;
 
 
-
+// 완료?
 }
