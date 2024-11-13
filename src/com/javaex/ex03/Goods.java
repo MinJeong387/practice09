@@ -6,6 +6,6 @@ public class Goods {
 	private int price;
 	private int count;
 
-	// 수정?
+	
 
 }
